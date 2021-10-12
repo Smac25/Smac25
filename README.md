@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Smac25
+- 👀 I’m interested in Hacktoberfest... I really want my tshirt this year!
+- 🌱 I’m currently learning basic HTML
+- 💞️ I’m looking to collaborate on simple projects but open to a challenge to push my skills on
+- 📫 How to reach me scarlett@purplecs.com
